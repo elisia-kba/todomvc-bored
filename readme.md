@@ -56,7 +56,7 @@
 ## Liens utiles
 
 - [TodoMVC](https://todomvc.com/)
-- [Bored API Documentation](https://bored-api.appbrewery)
+- [Bored API Documentation](https://bored-api.appbrewery.com/)
 
 ---
 
