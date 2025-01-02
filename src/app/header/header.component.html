@@ -1,0 +1,13 @@
+<header class="header">
+  <h1>Todos</h1>
+  <input class="new-todo"
+    [(ngModel)]="title"
+    autofocus=""
+    placeholder="What needs to be done?"
+    (keyup.enter)="addTodo()" />
+
+  <!-- Bouton pour ajouter une tâche basée sur une activité aléatoire -->
+  <button class="random-activity" (click)="addRandomActivity()">
+    Add Random Activity
+  </button>
+</header>
