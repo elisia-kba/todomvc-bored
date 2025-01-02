@@ -1,7 +1,7 @@
 # **TodoMVC avec Bored API**
 
 ## Description
-**TodoMVC avec Bored API** est une application web interactive basée sur le projet TodoMVC classique. Ce projet intègre l'API [Bored API](https://bored-api.appbrewery) pour permettre aux utilisateurs d'ajouter aléatoirement des tâches à leur liste. Ces tâches aléatoires contiennent des activités variées accompagnées d'informations telles que le type d'activité, le nombre de participants et la durée estimée.
+**TodoMVC avec Bored API** est une application web interactive basée sur le projet TodoMVC classique. Ce projet intègre l'API [Bored API](https://bored-api.appbrewery.com/) pour permettre aux utilisateurs d'ajouter aléatoirement des tâches à leur liste. Ces tâches aléatoires contiennent des activités variées accompagnées d'informations telles que le type d'activité, le nombre de participants et la durée estimée.
 
 ---
 
